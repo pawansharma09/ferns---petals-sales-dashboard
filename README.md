@@ -6,6 +6,7 @@ Ferns and Petals (FNP) specializes in gifts for occasions such as Diwali, Raksha
 The dataset contains details about orders, products, customers, and dates.
 
 The goal is to analyze sales performance, customer behavior, and product trends, and to present findings in an Excel dashboard.
+---
 
 ## 🔍 Business Questions Answered
 
@@ -28,6 +29,7 @@ Order Quantity vs Delivery Time – Impact of order size on delivery time.
 Revenue by Occasion – Comparing revenue from key festivals/occasions.
 
 Product Popularity by Occasion – Identifying seasonal product demand.
+---
 
 ## 📊 Key Insights (From Dashboard)
 
@@ -44,6 +46,7 @@ Colors and Soft Toys dominate product revenue categories.
 Magnum Set and Quia Gift are among top-selling products.
 
 Dibrugarh & Imphal stand out in top 10 cities by orders.
+---
 
 ## 🛠️ Technologies Used
 
@@ -54,6 +57,7 @@ Data Cleaning (Before EDA sheet)
 Exploratory Data Analysis (After EDA sheet)
 
 Pivot Tables & Charts
+---
 
 ## 🚀 Learnings & Takeaways
 
@@ -65,3 +69,4 @@ Demonstrated end-to-end workflow: Raw Data → EDA → Dashboard → Insights.
 Slicers for interactivity
 
 Dashboard design & formatting
+---
