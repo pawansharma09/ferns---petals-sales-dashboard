@@ -1,6 +1,6 @@
 # 📊 Ferns and Petals Sales Analysis – Excel Dashboard  
 
-![Dashboard Screenshot](Ferns and Petals Sales Dashboard/fnp-sales-dashboard.png)  
+![Dashboard Screenshot](fnp-sales-dashboard.png)  
 
 ---
 
